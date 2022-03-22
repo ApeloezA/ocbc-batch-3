@@ -1,0 +1,16 @@
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\bin\Debug\net5.0\hello2.exe
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\bin\Debug\net5.0\hello2.deps.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\bin\Debug\net5.0\hello2.runtimeconfig.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\bin\Debug\net5.0\hello2.runtimeconfig.dev.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\bin\Debug\net5.0\hello2.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\bin\Debug\net5.0\ref\hello2.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\bin\Debug\net5.0\hello2.pdb
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\obj\Debug\net5.0\hello2.csproj.AssemblyReference.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\obj\Debug\net5.0\hello2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\obj\Debug\net5.0\hello2.AssemblyInfoInputs.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\obj\Debug\net5.0\hello2.AssemblyInfo.cs
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\obj\Debug\net5.0\hello2.csproj.CoreCompileInputs.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\obj\Debug\net5.0\hello2.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\obj\Debug\net5.0\ref\hello2.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\obj\Debug\net5.0\hello2.pdb
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-1\hello2\obj\Debug\net5.0\hello2.genruntimeconfig.cache
