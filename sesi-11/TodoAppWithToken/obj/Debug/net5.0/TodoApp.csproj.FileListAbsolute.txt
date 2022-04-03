@@ -1,0 +1,439 @@
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.csproj.AssemblyReference.cache
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.AssemblyInfoInputs.cache
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.AssemblyInfo.cs
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\appsettings.json
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\TodoApp.exe
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\TodoApp.deps.json
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\TodoApp.runtimeconfig.json
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\TodoApp.runtimeconfig.dev.json
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\TodoApp.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\ref\TodoApp.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\TodoApp.pdb
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Humanizer.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.Build.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.Commands.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.Common.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.Configuration.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.Credentials.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.LibraryModel.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.Packaging.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.ProjectModel.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.Protocol.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\NuGet.Versioning.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.Manifest.cache
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.xml
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\scopedcss\bundle\TodoApp.styles.css
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.RazorTargetAssemblyInfo.cache
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.csproj.CopyComplete
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.dll
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\ref\TodoApp.dll
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.pdb
+D:\Edward Program\C#\sesi-10\TodoApp\obj\Debug\net5.0\TodoApp.genruntimeconfig.cache
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\appsettings.Development.json
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\appsettings.json
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\TodoApp.exe
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\TodoApp.deps.json
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\TodoApp.runtimeconfig.json
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\TodoApp.runtimeconfig.dev.json
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\TodoApp.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\ref\TodoApp.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\TodoApp.pdb
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Humanizer.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.Build.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.Commands.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.Common.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.Configuration.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.Credentials.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.LibraryModel.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.Packaging.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.ProjectModel.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.Protocol.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\NuGet.Versioning.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.csproj.AssemblyReference.cache
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.AssemblyInfoInputs.cache
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.AssemblyInfo.cs
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.Manifest.cache
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.xml
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\scopedcss\bundle\TodoApp.styles.css
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.RazorTargetAssemblyInfo.cache
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.csproj.CopyComplete
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\ref\TodoApp.dll
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.pdb
+D:\Edward Program\C#\sesi-10\TodoApp Sqlite\obj\Debug\net5.0\TodoApp.genruntimeconfig.cache
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\TodoApp.StaticWebAssets.xml
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Edward Program\C#\sesi-10\TodoApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\appsettings.json
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\TodoApp.StaticWebAssets.xml
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\TodoApp.exe
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\TodoApp.deps.json
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\TodoApp.runtimeconfig.json
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\TodoApp.runtimeconfig.dev.json
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\TodoApp.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\ref\TodoApp.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\TodoApp.pdb
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Humanizer.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.Build.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.Commands.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.Common.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.Configuration.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.Credentials.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.LibraryModel.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.Packaging.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.ProjectModel.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.Protocol.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\NuGet.Versioning.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.csproj.AssemblyReference.cache
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.AssemblyInfoInputs.cache
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.AssemblyInfo.cs
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.Manifest.cache
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.xml
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\scopedcss\bundle\TodoApp.styles.css
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.RazorTargetAssemblyInfo.cache
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.csproj.CopyComplete
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\ref\TodoApp.dll
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.pdb
+C:\Users\apeloeza\Downloads\Compressed\ocbc-c--batch-3-main\ocbc-c--batch-3-main\sesi-10\TodoAppJsw\obj\Debug\net5.0\TodoApp.genruntimeconfig.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\appsettings.Development.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\appsettings.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\TodoApp.StaticWebAssets.xml
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\TodoApp.exe
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\TodoApp.deps.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\TodoApp.runtimeconfig.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\TodoApp.runtimeconfig.dev.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\TodoApp.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\ref\TodoApp.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\TodoApp.pdb
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Humanizer.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.Build.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.Commands.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.Common.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.Configuration.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.Credentials.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.LibraryModel.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.Packaging.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.ProjectModel.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.Protocol.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\NuGet.Versioning.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.csproj.AssemblyReference.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.AssemblyInfoInputs.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.AssemblyInfo.cs
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.Manifest.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.xml
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\scopedcss\bundle\TodoApp.styles.css
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.RazorTargetAssemblyInfo.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.csproj.CopyComplete
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\ref\TodoApp.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.pdb
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-10\TodoAppWithJwt\obj\Debug\net5.0\TodoApp.genruntimeconfig.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.csproj.AssemblyReference.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.AssemblyInfoInputs.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.AssemblyInfo.cs
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\ref\TodoApp.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.pdb
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\appsettings.Development.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\TodoApp.StaticWebAssets.xml
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\appsettings.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\TodoApp.exe
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\TodoApp.deps.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\TodoApp.runtimeconfig.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\TodoApp.runtimeconfig.dev.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\TodoApp.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\ref\TodoApp.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\TodoApp.pdb
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Humanizer.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.Build.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.Commands.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.Common.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.Configuration.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.Credentials.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.LibraryModel.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.Packaging.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.ProjectModel.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.Protocol.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\NuGet.Versioning.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.Manifest.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.xml
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\scopedcss\bundle\TodoApp.styles.css
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.RazorTargetAssemblyInfo.cache
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.csproj.CopyComplete
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-11\TodoAppWithToken\obj\Debug\net5.0\TodoApp.genruntimeconfig.cache
